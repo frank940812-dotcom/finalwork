@@ -1,0 +1,7 @@
+﻿venv/
+venv_bertopic/
+.env
+__pycache__/
+*.log
+dcard_data/
+outputs/
